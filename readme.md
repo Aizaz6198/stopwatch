@@ -31,4 +31,4 @@ This stopwatch is a small web app made using **HTML**, **CSS**, and **JavaScript
 
 ![working of stopwatch](illustration.png)
 
-![live preview]( https://aizaz6198.github.io/stopwatch/)
+[live preview]( https://aizaz6198.github.io/stopwatch/)
